@@ -6,7 +6,7 @@ A minimalist personal knowledge management and productivity system that gives ev
 
 This repository contains my official documentation and resources for implementing the Object Pages System - a paper-based organizational method I designed to reduce cognitive load and increase clarity through thoughtful separation of ideas.
 
-Start here: 
+Start here: https://github.com/Joanwestenberg/objectpages/blob/af17a92425c1b2ee6401bac5a8acf9ba1f6d5492/OBJECT%20PAGES%20SYSTEM.md
 
 ## Latest Updates
 
