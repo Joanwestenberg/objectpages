@@ -6,6 +6,8 @@ A minimalist personal knowledge management and productivity system that gives ev
 
 This repository contains my official documentation and resources for implementing the Object Pages System - a paper-based organizational method I designed to reduce cognitive load and increase clarity through thoughtful separation of ideas.
 
+Start here: 
+
 ## Latest Updates
 
 Version 2.0 introduces several enhancements to the original system:
